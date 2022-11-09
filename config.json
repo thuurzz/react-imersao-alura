@@ -10,11 +10,6 @@
         "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
       },
       {
-        "title": "Frostpunk - Neve e Steak tartare",
-        "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-        "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
-      },
-      {
         "title": "Gas Station Simulator - 8 dias sem dormir!",
         "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
         "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
@@ -46,11 +41,6 @@
       }
     ],
     "frontEnd": [
-      {
-        "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-        "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-        "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
-      },
       {
         "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
         "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
@@ -93,11 +83,6 @@
       }
     ],
     "backEnd": [
-      {
-        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-        "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-        "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
-      },
       {
         "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
         "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
